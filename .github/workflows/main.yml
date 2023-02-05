@@ -20,7 +20,7 @@ jobs:
           hugo-version: '0.109.0'
 
       - name: Build
-        run: hugo --minify --baseURL https://herbrant.github.io/
+        run: hugo --minify --baseURL https://herbrant.github.io/ExamBox-WebPage/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
