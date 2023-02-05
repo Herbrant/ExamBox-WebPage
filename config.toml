@@ -1,0 +1,53 @@
+baseURL = "https://exam-box.dmi.unict.it"
+languageCode = "it"
+paginate = 6
+theme = "portio"
+title = "ExamBox"
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "About me"
+url = "about"
+weight = 1
+[[menu.sitemap]]
+name = "Frequently Ask Question"
+url = "#"
+weight = 2
+[[menu.sitemap]]
+name = "Privacy & Policy"
+url = "#"
+weight = 3
+[[menu.sitemap]]
+name = "Latest Article"
+url = "#"
+weight = 4
+
+[params]
+blogPageURL = "blog"
+adminLink = "https://admin.exam-box.dmi.unict.it"
+copyright = "Sviluppato da Davide Carnemolla e Mario Di Raimondo"
+footerLogo = "images/logo.svg"
+googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+logo = "images/logo-black.svg"
+
+[params.address]
+address = "Dipartimento di Matematica e Informatica, Università di Catania"
+email = "exam-box@dmi.unict.it"
+
+# Social icons
+# [[params.social]]
+# icon = "fa-facebook-official"
+# url = "https://www.facebook.com/"
+# weight = 1
+# [[params.social]]
+# icon = "fa-linkedin-square"
+# url = "https://www.linkedin.com/"
+# weight = 2
+# [[params.social]]
+# icon = "fa-pinterest-square"
+# url = "https://www.pinterest.com/"
+# weight = 3
+# [[params.social]]
+# icon = "fa-twitter-square"
+# url = "https://twitter.com/"
+# weight = 4

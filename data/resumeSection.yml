@@ -1,0 +1,28 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## Fasi di lavoro
+
+
+tab1Name: Fasi
+tab1Target: education
+
+education:
+  - content: >
+      #### Creazione dell'immagine
+
+      Creazione di un'immagine basata su Debian GNU/Linux selezionando i pacchetti desiderati e con ampia possibilità di personalizzare l’ambiente di lavoro.
+    time: 1
+  - content: >
+      #### Definizione policy di sicurezza
+
+      Definizione delle risorse digitali utilizzabili durante l’esame (documentazione, siti web, strumenti di sviluppo, …) con flessibili policy di sicurezza.
+    time: 2
+  - content: >
+      #### Attivazione
+
+      Attivazione dell’ambiente così definito su un qualunque laboratorio attraverso l’uso del boot da rete (PXE) con storage remoto su un server centrale senza necessità di installare alcun software sulla macchina client.
+    time: 3
+
+

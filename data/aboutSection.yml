@@ -1,0 +1,28 @@
+---
+enable: true
+title: >
+  ## Storia
+content: >
+  ExamBox è nato all’interno del Dipartimento di Matematica e Informatica dell’Università di Catania come progetto di Laurea triennale in Informatica di Davide Carnemolla sotto la supervisione del Prof. Mario Di Raimondo. Pensato come una riscrittura ed estensione di un prototipo iniziale già in uso in qualche materia, è stato rapidamente adottato dal Dipartimento come ambiente di lavoro GNU/Linux ed impiegato nei corsi di Laurea in Informatica del Dipartimento stesso. 
+  Di seguito la lista dei corsi che usano (o hanno usato) ExamBox in ordine cronologico rispetto alla data d’adozione:
+  
+  - Sistemi Operativi
+
+  - Blockchain & Cryptocurrencies
+
+  - Tecnologie per i Sistemi Distribuiti e il Web
+
+  - Reti di Calcolatori
+
+  - Programmazione 1
+
+  - Algoritmi
+
+  - Web Programming, Design & Usability
+
+
+  Il sistema è attualmente utilizzato nei tre laboratori del DMI (per un totale di circa 75 postazioni) e, durante le sessioni d’esame, viene impiegato in alcune aule didattiche attraverso l’impiego di portatili in dotazione al Dipartimento stesso (64 postazioni per ogni aula).
+  
+  
+  Il sistema è attualmente gestito da Davide Carnemolla (attualmente studente Magistrale) e dal Prof. Mario Di Raimondo.
+image: images/about/old_computer.svg
