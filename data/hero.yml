@@ -4,8 +4,7 @@ content: >
   # ExamBox
 
   Un sistema per la gestione completa di esercitazioni ed esami all'interno di un laboratorio di calcolatori in ambiente GNU/Linux: dalla creazione di un ambiente di lavoro ad-hoc per ogni possibile esigenza all’automazione delle varie fasi.
-buttonName: Login
-buttonURL: https://admin.exam-box.dmi.unict.it
+
 image: images/hero/rocket.svg
 # videoThumb: images/hero/popup-thumb.png
 # videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
