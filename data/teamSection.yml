@@ -1,0 +1,13 @@
+---
+enable: true
+title: >
+  ## Il Team
+
+member:
+  - name: Davide Carnemolla
+    comment: Studente CdL Magistrale in Informatica
+    image: images/dc.jpg
+
+  - name: Mario Di Raimondo
+    comment: Docente presso il DMI
+    image: images/mdr.jpg
