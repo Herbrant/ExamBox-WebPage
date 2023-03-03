@@ -13,7 +13,8 @@ googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/logo-black.svg"
 
 [params.address]
-address = "Dipartimento di Matematica e Informatica, Università di Catania"
+department = "Dipartimento di Matematica e Informatica"
+university = "Università di Catania"
 email = "exam-box@dmi.unict.it"
 
 # Social icons
