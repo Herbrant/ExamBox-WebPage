@@ -3,7 +3,7 @@ enable: true
 title: >
   ## Storia
 content: >
-  ExamBox è nato all’interno del Dipartimento di Matematica e Informatica dell’Università di Catania come progetto di Laurea triennale in Informatica di Davide Carnemolla sotto la supervisione del Prof. Mario Di Raimondo. Pensato come una riscrittura ed estensione di un prototipo iniziale già in uso in qualche materia, è stato rapidamente adottato dal Dipartimento come ambiente di lavoro GNU/Linux ed impiegato nei corsi di Laurea in Informatica del Dipartimento stesso. 
+  ExamBox è nato all’interno del [Dipartimento di Matematica e Informatica](https://web.dmi.unict.it) dell’[Università di Catania](https://www.unict.it) come progetto di Laurea triennale in Informatica di [Davide Carnemolla](https://herbrant.github.io) sotto la supervisione del Prof. [Mario Di Raimondo](https://diraimondo.dmi.unict.it). Pensato come una riscrittura ed estensione di un prototipo iniziale già in uso in qualche materia, è stato rapidamente adottato dal Dipartimento come ambiente di lavoro GNU/Linux ed impiegato nei corsi di Laurea in Informatica del Dipartimento stesso. 
   Di seguito la lista dei corsi che usano (o hanno usato) ExamBox in ordine cronologico rispetto alla data d’adozione:
   
   - Sistemi Operativi

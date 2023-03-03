@@ -1,4 +1,4 @@
-{{ with .Site.Data.serviceSection }}
+{{ with .Site.Data.funzionalitaSection }}
 {{ if .enable }}
 <section class="section service" id="service">
     <div class="service__background">
@@ -27,30 +27,23 @@
     </div>
 
     <div class="container">
-        <div class="row">
-            <div class="col-lg-6 col-md-12 col-sm-12">
-                <div class="service__header mb-5">
-                    {{ .title | markdownify }}
-                </div>
+        <div class="row justify-content-center">
+            <div class="text-center">
+                {{ .title | markdownify }}
             </div>
         </div>
-        <div class="row">
-            <div class="col-12">
-                <div class="service__slider">
-                    {{ $Section := .service }}
-                    {{ range $Section }}
-                    <div class="service__slider_item">
-                        <div class="service__slider_item-icon">
-                            <div class="icon">
-                                <img style="max-width: 100px;" src=" {{ .image | absURL }} " alt="ui-ux">
-                            </div>
-                        </div>
-                        <div class="mt-5">
-                            {{ .content | markdownify }}
-                        </div>
+        <div class="col-12">
+            <div class="row">
+                {{ $Section := .service }}
+                {{ range $Section }}
+                <div class="col-md-6 col-xl-4 col-xxl-2 d-flex align-items-stretch">
+                    <div class="resume__education_item">
+                        <img src="{{ .image }}">
+                        <span class="text-primary"> {{ .time }} </span>
+                        {{ .content | markdownify }}
                     </div>
-                    {{ end }}
                 </div>
+                {{ end }}
             </div>
         </div>
     </div>

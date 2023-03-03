@@ -1,0 +1,19 @@
+---
+enable: true
+title: >
+  ## Funzionalità
+service:
+  - content: Gestione da applicazione web con autenticazione [OAuth 2.0](https://it.wikipedia.org/wiki/OAuth) sul dominio Microsoft di Ateneo, Google e GitHub
+    image: images/funzionalita/app.svg
+  - content: Creazione di un ambiente GNU/Linux facendo uso di pacchetti [Debian](https://www.debian.org) e [Flatpak](https://flatpak.org)
+    image: images/funzionalita/packages.svg
+  - content: Personalizzazione dell’ambiente attraverso generici script di sistema e di sessione per il singolo utente
+    image: images/funzionalita/script.svg
+  - content: Policy di sicurezza personalizzabili con possibilità di usare ambienti di lavoro totalmente isolati e con accesso selettivo a risorse preselezionate tramite un firewall basato su domini, URL http:// e https://
+    image: images/funzionalita/security.svg
+  - content: Avvio del sistema sulle macchine del laboratorio attraverso protocolli standard per il boot da rete (DHCP, PXE, TFTP, NFS) e senza alcuna necessità di installare software specifici sulle macchine client
+    image: images/funzionalita/network.svg
+  - content: Autenticazione dei singolo studente attraverso il dominio Microsoft d’Ateneo o account ad-hoc definiti dal docente
+    image: images/funzionalita/auth.svg
+  - content: Attivazione e monitoraggio della sessione d’esame con esportazione automatica degli elaborati prodotti all’interno degli ambienti di lavoro dei singoli studenti
+    image: images/funzionalita/download.svg
